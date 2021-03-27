@@ -1,9 +1,12 @@
 # VennemanM
-<heading><b> Test for School </b></heading>
-<br>
-<body>
-<br><h1>
-Hey! I'm trying to learn coding to make a portfolio website.
+<h1>
+  <heading><b> Test for School </b></heading>
 </h1>
 <br>
-</body>
+<h2>
+  <body>
+    <br>
+    Hey! This is a test for coding class.
+    <br>
+  </body>
+</h2>
